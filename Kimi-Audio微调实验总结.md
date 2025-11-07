@@ -443,8 +443,7 @@ preprocessing_num_workers: 0
 
 ---
 
-**实验日期**: 2025-11-07  
-**实验人员**: [您的姓名]  
+**实验日期**: 2025-11-07   
 **模型版本**: Kimi-Audio-7B-Instruct  
 **LLaMAFactory 版本**: 最新版本
 
